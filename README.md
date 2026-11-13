@@ -110,5 +110,5 @@ Have a favorite RE2 filter for Search Console that isn't listed here? Feel free 
 
 ### 👨‍💻 Maintained by Warner Williams
 I help SaaS founders, e-commerce stores, and engineering teams turn fast web architectures into compounding organic search traffic.
-* 🌐 **Website & Technical SEO Audits:** [yourwebsite.com](https://yourwebsite.com)
-* 💼 **Connect on LinkedIn:** [://linkedin.com](https://linkedin.com)
+* 🌐 **Website & Technical SEO Audits:** https://aprilpad.com/
+* 💼 **Connect on LinkedIn:** 
